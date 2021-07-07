@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/Ver-Website-blue">](https://main.du27kk1ppd7ce.amplifyapp.com//) [<img src="https://img.shields.io/badge/Ver-Video-red">](https://www.youtube.com/watch?v=sUAdnfDavvE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/Ver-Website-blue">](https://main.du27kk1ppd7ce.amplifyapp.com//) [<img src="https://img.shields.io/badge/Ver-Video-red">](https://www.youtube.com/watch?v=yuk-v9ZlMJ8)
 
 # Coffee Chain
 
